@@ -14,3 +14,9 @@ permalink: LINKS/
 <p>6. <a href = "http://choosetoencrypt.com/privacy/complete-beginners-guide-to-internet-safety-privacy/">Guide to Internet Safety</a> ----- > This article contain lists about "How to increase our privacy in the internet (VPN, changing DNS, and much more)". </p>
 <p>7. <a href = "https://www.niagahoster.co.id/blog/apa-itu-ssh/"> Introduction SSH </a> ----- > This article explain the introduction about SSH, what is SSH and how does it work. SSH is a protocol that can be use to connect 2 computer devices. SSH works from enscryption the data that has been sent from the computer devices.  </p>
 <p>8. <a href = "https://id.wikipedia.org/wiki/RSA">Wikipedia RSA</a> ----- > This article explain about what is SSH and how does it work. RSA is an algorithm for enscryption data. RSA works by using public key and private key. </p>
+
+# WEEK 3
+<p>9. <a href = "https://unix.stackexchange.com/questions/3192/what-is-meant-by-mounting-a-device-in-linux">What is Mounting?</a> ----- > This article contains introduction about mounting in linux. This website also explain the command that we can use to apply mounting in linux.</p>
+<p>10. <a href = "https://www.fosslinux.com/20889/how-to-create-and-edit-text-files-using-command-line-from-linux-terminal.htm">How to create and edit cat file in linux</a> ----- > This website explain about how to create and edit cat file in linux especially in linux terminal.</p>
+<p>11. <a href = "https://rdr-it.com/en/hyper-v-add-a-virtual-hard-disk-to-a-virtual-machine/">How to create and add disk to virtual machine</a> ----- > This website explain how to create and add disk to virtual machine. It comes with the tutorial too so this website is very useful</p>
+
