@@ -20,3 +20,8 @@ permalink: LINKS/
 <p>10. <a href = "https://www.fosslinux.com/20889/how-to-create-and-edit-text-files-using-command-line-from-linux-terminal.htm">How to create and edit cat file in linux</a> ----- > This website explain about how to create and edit cat file in linux especially in linux terminal.</p>
 <p>11. <a href = "https://rdr-it.com/en/hyper-v-add-a-virtual-hard-disk-to-a-virtual-machine/">How to create and add disk to virtual machine</a> ----- > This website explain how to create and add disk to virtual machine. It comes with the tutorial too so this website is very useful</p>
 
+# WEEK 4
+<p>12.<a href = "https://www.ufsexplorer.com/articles/file-systems-basics/">File System Basics</a> ----- > This article describe the definition about file system in general.</p>
+<p>13. <a href = "https://www.scaler.com/topics/linux-tutorial/file-system-of-linux/">File System of Linux</a> ----- > This article describe about introduction of File system in linux, their characteristics, types, and linux directiry structure. </p>
+<p>14. <a href = "https://blog.foldersecurityviewer.com/understanding-ntfs-permissions/">Understanding NTFS Permissions </a> ----- > This article explain the introduction and basic concept about NTFS, their definitions, and how does NTFS works.  </p>
+
