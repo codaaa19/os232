@@ -25,3 +25,6 @@ permalink: LINKS/
 <p>13. <a href = "https://www.scaler.com/topics/linux-tutorial/file-system-of-linux/">File System of Linux</a> ----- > This article describe about introduction of File system in linux, their characteristics, types, and linux directiry structure. </p>
 <p>14. <a href = "https://blog.foldersecurityviewer.com/understanding-ntfs-permissions/">Understanding NTFS Permissions </a> ----- > This article explain the introduction and basic concept about NTFS, their definitions, and how does NTFS works.  </p>
 
+# WEEK 5
+<p> 15. <a href = "https://www.scaler.com/topics/memory-management-in-operating-system/">Memory Management in operating system</a> ----- > This article describe about the definition about memory management in operating system. Memory management moves processes from primary memory to secondary memory and vice versa. It also keeps track of available memory, memory allocation, and unallocated.
+<p> 16. <a href = "https://www.scaler.com/topics/memory-management-in-linux/">Memory management in linux</a> ----- > This article make me understand about memory management in linux, especially about linux key such as virtual memory primer, concept of memory pages, page cache, and many more.
