@@ -26,5 +26,9 @@ permalink: LINKS/
 <p>14. <a href = "https://blog.foldersecurityviewer.com/understanding-ntfs-permissions/">Understanding NTFS Permissions </a> ----- > This article explain the introduction and basic concept about NTFS, their definitions, and how does NTFS works.  </p>
 
 # WEEK 5
-<p> 15. <a href = "https://www.scaler.com/topics/memory-management-in-operating-system/">Memory Management in operating system</a> ----- > This article describe about the definition about memory management in operating system. Memory management moves processes from primary memory to secondary memory and vice versa. It also keeps track of available memory, memory allocation, and unallocated.
-<p> 16. <a href = "https://www.scaler.com/topics/memory-management-in-linux/">Memory management in linux</a> ----- > This article make me understand about memory management in linux, especially about linux key such as virtual memory primer, concept of memory pages, page cache, and many more.
+<p> 15. <a href = "https://www.scaler.com/topics/memory-management-in-operating-system/">Memory Management in operating system</a> ----- > This article describe about the definition about memory management in operating system. Memory management moves processes from primary memory to secondary memory and vice versa. It also keeps track of available memory, memory allocation, and unallocated. </p>
+<p> 16. <a href = "https://www.scaler.com/topics/memory-management-in-linux/">Memory management in linux</a> ----- > This article make me understand about memory management in linux, especially about linux key such as virtual memory primer, concept of memory pages, page cache, and many more.</p>
+
+# WEEK 6
+<p> 17. <a href = "https://man7.org/linux/man-pages/man2/fork.2.html"> Fork in linux </a>  ----- > This article give detail explanation about fork in linux, especially parents and child relationship.
+<p> 18. <a href = "https://www.youtube.com/watch?v=CaWgJIbwb-4"> Fork() linux </a>  ----- > This article give an visual explanation about linux with videos and examples.
