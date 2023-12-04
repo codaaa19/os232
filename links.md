@@ -32,3 +32,19 @@ permalink: LINKS/
 # WEEK 6
 <p> 17. <a href = "https://man7.org/linux/man-pages/man2/fork.2.html"> Fork in linux </a>  ----- > This article give detail explanation about fork in linux, especially parents and child relationship.
 <p> 18. <a href = "https://www.youtube.com/watch?v=CaWgJIbwb-4"> Fork() linux </a>  ----- > This article give an visual explanation about linux with videos and examples.
+
+# WEEK 7
+<p> 19. <a href = "https://www.scaler.com/topics/shared-memory-linux/"> Shared memory linux </a>  ----- > This article give general and detail explanation about shared memory in linux such as the definition, how does it works, and how many type of shared memory does it have in linux.
+<p> 20. <a href = "https://www.youtube.com/watch?v=WgVSq-sgHOc">How to Set up Shared Memory in Your Linux and MacOS Programs</a>  ----- > This article give an visual explanation about linux shared memory (shmget,shmat,shmdt,shmctl, and ftok) with videos and examples.
+
+# WEEK 8
+<p> 21. <a href = "https://www.linuxfromscratch.org/lfs/view/12.0/chapter05/gcc-libstdc++.html"> Linux from Scratch </a> ----- > This article give step by step command for preparing our linux. This links very helpful and easy to run.
+<p> 22. <a href = "https://www.youtube.com/watch?v=uggsnHSELos&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=11"> Compiling a cross-toolchain </a> ----- > This video give tutorial and live coding about preparing our linux from scratch.
+
+# WEEK 9
+<p> 23. <a href = "https://www.youtube.com/watch?v=y8uAMEK0FVc&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=9"> Chapter 7 Linux from Scratch </a> ----- > This video give me the tutorial for preparing the linux. Very helpful.
+<p> 24. <a href = "https://www.youtube.com/watch?v=D_N1kQPsQEk&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=8"> Chapter 6 Linux from Scratch </a> ----- > This video give me the tutorial for preparing the linux. Very helpful.
+
+# WEEK 10
+<p> 25. <a href = "https://www.linuxquestions.org/questions/linux-from-scratch-13/glibc-2-29-fails-to-compile-dev-null-unkown-type-name-step-6-9-1-a-4175653501/"> Error Linux GNU </a> ----- > This article give me insight about the error that has shown on my device
+<p> 26. <a href = "https://www.youtube.com/watch?v=WXAV29qd6VI&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=10"> Chapter 8 </a> ----- > This video explain about the process for preparing my linux from scratch.
